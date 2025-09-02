@@ -178,17 +178,17 @@ python insert\_more\_matches.py
 
 
 
-5\. Add Your RapidAPI Key
+5\. Add RapidAPI Key
 
 
 
-Edit `utils/api\_handler.py`:
+In `utils/api\_handler.py`:
 
 
 
 headers = {
 
-&nbsp;   "X-RapidAPI-Key": "YOUR\_KEY\_HERE",
+&nbsp;   "X-RapidAPI-Key": "6a8ec70401msh7b164f32548fe9ap1a9bb9jsnda084dcf07e6",
 
 &nbsp;   "X-RapidAPI-Host": "cricbuzz-cricket.p.rapidapi.com"
 
